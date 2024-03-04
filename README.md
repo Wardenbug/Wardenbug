@@ -16,9 +16,9 @@
 ---
 
 ## :man_technologist: About me:
-- I'm frontend developer from Ukraine
+- I'm frontend developer
 - I'm working with React, Angular
-- In my free time, I like to solve problems on Leetcode and Codewars
+- Learning C#, ASP.NET Core
 
 ## :desktop_computer:	My tech stack
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
